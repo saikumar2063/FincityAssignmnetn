@@ -1,0 +1,29 @@
+.portfolio-container {
+  width: 350px;
+}
+
+.portfolio-h3 {
+  color: rgb(231, 167, 47);
+}
+
+.portfolio-h1 {
+  font-family: "Roboto";
+}
+.portfolio-para {
+  font-weight: 400;
+  color: grey;
+}
+
+button {
+  background-color: rgb(255, 167, 2);
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  height: 40px;
+  width: 80px;
+}
+
+.Project-component {
+  background-color: white;
+  height: 100vh;
+}

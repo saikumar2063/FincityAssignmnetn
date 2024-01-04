@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px;
+}
+.div-container {
+  display: flex;
+  justify-content: space-evenly;
+  padding-right: 30px;
+}
+h3 {
+  margin-left: 50px;
+}
