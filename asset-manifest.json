@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fincity-portfolio/static/css/main.f0035ce1.css",
+    "main.js": "/fincity-portfolio/static/js/main.29f057b6.js",
+    "static/js/787.f8e4e3b8.chunk.js": "/fincity-portfolio/static/js/787.f8e4e3b8.chunk.js",
+    "index.html": "/fincity-portfolio/index.html",
+    "main.f0035ce1.css.map": "/fincity-portfolio/static/css/main.f0035ce1.css.map",
+    "main.29f057b6.js.map": "/fincity-portfolio/static/js/main.29f057b6.js.map",
+    "787.f8e4e3b8.chunk.js.map": "/fincity-portfolio/static/js/787.f8e4e3b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0035ce1.css",
+    "static/js/main.29f057b6.js"
+  ]
+}
